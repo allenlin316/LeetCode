@@ -6,6 +6,7 @@
 ## Algorithm Class
 * Week1 : [筆記連結](https://hackmd.io/@gbSkzVymQsiREVFGHI7tpQ/BJboC_klq)
 * Week2 : [筆記連結](https://hackmd.io/@gbSkzVymQsiREVFGHI7tpQ/rkexfLUgq)
+* Week3 : [筆記連結](https://hackmd.io/@gbSkzVymQsiREVFGHI7tpQ/BJH6xsyb9)
 
 
 ###### tags: `LeetCode`
