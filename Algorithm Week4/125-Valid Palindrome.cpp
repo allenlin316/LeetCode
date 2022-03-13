@@ -1,5 +1,5 @@
 #include <iostream>
-#include <cctype>
+#include <cctype> // to use tolower() function
 #include <sstream>
 using namespace std;
 
@@ -19,6 +19,7 @@ int main()
 }
 
 string removeNonAlphanumeric(string str){
+    // keep only the letters and numbers, remove spaces etc.
     string result="";
     for(int i=0; i<str.size(); i++){
         if(str[i]>= '0' && str[i]<='9' || str[i]>='a' && str[i]<='z')
@@ -33,7 +34,7 @@ string removeNonAlphanumeric(string str){
 
 bool isPalindrome(string s) {
     s = removeNonAlphanumeric(s);
-    int left = 0, right = s.size()-1, s_half_length = s.size()/2;
+    int left = 0, right = s.size()-1, s_half_length = s.size()/2; // 因為是從字串左右兩邊往中間跑，檢查有沒有一樣
     while(s_half_length--){
         if(s[left] != s[right])
             return false;
