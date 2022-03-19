@@ -8,6 +8,7 @@
 * Week2 : [筆記連結](https://hackmd.io/@gbSkzVymQsiREVFGHI7tpQ/rkexfLUgq)
 * Week3 : [筆記連結](https://hackmd.io/@gbSkzVymQsiREVFGHI7tpQ/BJH6xsyb9)
 * Week4 : [筆記連結](https://hackmd.io/@gbSkzVymQsiREVFGHI7tpQ/SJ9_Ia9Zc)
+* Week5 : [筆記連結](https://hackmd.io/@gbSkzVymQsiREVFGHI7tpQ/BynmiMzMc)
 
 
 ###### tags: `LeetCode`
