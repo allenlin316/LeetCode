@@ -24,7 +24,7 @@ public:
     }
 };
 ```
-![](https://imgur.com/a/s1AekV7)
+![](https://imgur.com/eT6mdn3.png)
 
 
 ## 分類
