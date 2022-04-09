@@ -24,7 +24,7 @@
 其實我不知道我這樣算不算 Greedy，不過我就是從最大的數字 `9` 開始，每一次都看看字串裡面有沒有對應的數字。
 
 ## 程式碼
-```cpp=
+```cpp
 class Solution {
 public:
     int minPartitions(string n) {
