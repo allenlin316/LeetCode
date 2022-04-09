@@ -7,7 +7,7 @@
 十位數字影響數字的大小比個位數大，所以找出四位數裡最小的兩個數字，分別放到兩個二位數的十進位上，剩下的個位數就隨便放，不影響
 
 ## 程式碼
-```cpp=
+```cpp
 class Solution {
 public:
     int minimumSum(int num) {
