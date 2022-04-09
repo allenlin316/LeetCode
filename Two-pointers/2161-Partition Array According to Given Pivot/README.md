@@ -29,7 +29,7 @@
 創一個新的 `result vector`，用左右指針存題目給的陣列，小的從前面開始放，大的從後面開始放。最後剩下等於 `pivot` 放到空的位置填滿。 
 
 ## 程式碼
-```cpp=
+```cpp
 class Solution {
 public:
     vector<int> pivotArray(vector<int>& nums, int pivot) {
