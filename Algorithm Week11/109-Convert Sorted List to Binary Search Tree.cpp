@@ -50,7 +50,6 @@ TreeNode* solve(vector<int> &nums, int start, int end){
 
 TreeNode* sortedListToBST(ListNode* head) {
     vector<int> nums;
-    ListNode *cur = head;
     while(head){
         nums.push_back(head->val);
         head = head->next;
