@@ -1,6 +1,6 @@
 # LeetCode 287 - Find the Duplicate Number
 
-> 詳細解說可以參考[我的影片](https://youtu.be/uQv9dYglKvE)與 PPT
+> 詳細解說可以參考[我的影片](https://youtu.be/uQv9dYglKvE)與 [PPT](https://github.com/allenlin316/LeetCode/blob/main/Final-exam/LeetCode%20%E7%99%BD%E6%9D%BF%E9%A1%8C/LeetCode%E7%99%BD%E6%9D%BF%E9%A1%8C.pdf)
 
 ## Binary-search 解法
 ```cpp
