@@ -15,6 +15,8 @@
 * Week12 : [筆記連結](https://hackmd.io/@gbSkzVymQsiREVFGHI7tpQ/ryG8r69H9)
 * Week13 : [筆記連結](https://hackmd.io/@gbSkzVymQsiREVFGHI7tpQ/r1NHrY7I9)
 * Week14 : [筆記連結](https://hackmd.io/@gbSkzVymQsiREVFGHI7tpQ/HyT3QHaUq)
+* Week15 : [筆記連結](https://hackmd.io/@gbSkzVymQsiREVFGHI7tpQ/Bkk90FIDc)
+* FinalProject : [筆記連結](https://github.com/allenlin316/LeetCode/tree/main/Final-exam/LeetCode%20%E7%99%BD%E6%9D%BF%E9%A1%8C)
 
 
 ###### tags: `LeetCode`
