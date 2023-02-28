@@ -50,6 +50,6 @@ public:
 
 
 ## 題目分類
-`Binart Search`、`Greedy`、`Two Pointers`
+`Binary Search`、`Greedy`、`Two Pointers`
 
 ###### tags: `LeetCode`
